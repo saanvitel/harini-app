@@ -8,8 +8,8 @@ const CarouselContainer = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 600px;
-  height: 400px;
+  width: 900px;
+  height: 600px;
   position: relative;
 `;
 
@@ -96,7 +96,7 @@ export const Carousel = ({ data }) => {
             fill // Replaces layout="fill"
             style={{ objectFit: 'cover', borderRadius: '0.5rem', boxShadow: '0px 0px 7px #666' }} // Adjusted style
             quality={100} // Optional: Adjust image quality
-            sizes="(max-width: 600px) 100vw, 600px"
+            sizes="(max-width: 900px) 100vw, 900px"
           />
         </Slide>
         )
