@@ -38,49 +38,79 @@ export default function Home() {
     },
     {
       "src" : "/data/hariniimages/IMG_20240908_115537_909.jpg"
-  },
-  {
-      "src" : "/data/hariniimages/IMG_20240908_115545_726.jpg"
-  },
-  {
-      "src" : "/data/hariniimages/IMG_20240908_115549_256.jpg"
-  },
-  {
-      "src" : "/data/hariniimages/IMG_20240908_115653_822.jpg"
-  },
-  {
-      "src" : "/data/hariniimages/IMG_20240908_115658_340.jpg"
-  },
-  {
-      "src" : "/data/hariniimages/IMG_20240908_115703_141.jpg"
-  },
-  {
-      "src" : "/data/hariniimages/IMG_20240908_115708_689.jpg"
-  },
-  {
-      "src" : "/data/hariniimages/IMG_20240908_115711_659.jpg"
-  },
-  {
-      "src" : "/data/hariniimages/IMG_20240908_115731_526.jpg"
-  },
-  {
-      "src" : "/data/hariniimages/IMG_20240908_115754_356.jpg"
-  },
-  {
-      "src" : "/data/hariniimages/IMG_20240908_115756_582.jpg"
-  },
-  {
-      "src" : "/data/hariniimages/IMG_20240908_115801_628.jpg"
-  },
-  {
-      "src" : "/data/hariniimages/IMG_20240908_115806_574.jpg"
-  },
-  {
-      "src" : "/data/hariniimages/IMG_20240908_115808_287.jpg"
-  },
-  {
-      "src" : "/data/hariniimages/IMG_20240908_115810_186.jpg"
-  }
+    },
+    // {
+    //     "src" : "/data/hariniimages/IMG_20240908_115545_726.jpeg"
+    // },
+    {
+        "src" : "/data/hariniimages/IMG_20240908_115549_256.jpg"
+    },
+    {
+        "src" : "/data/hariniimages/IMG_20240908_115653_822.jpg"
+    },
+    {
+        "src" : "/data/hariniimages/IMG_20240908_115658_340.jpg"
+    },
+    {
+        "src" : "/data/hariniimages/IMG_20240908_115703_141.jpg"
+    },
+    {
+        "src" : "/data/hariniimages/IMG_20240908_115708_689.jpg"
+    },
+    {
+        "src" : "/data/hariniimages/IMG_20240908_115711_659.jpg"
+    },
+    {
+        "src" : "/data/hariniimages/IMG_20240908_115731_526.jpg"
+    },
+    {
+        "src" : "/data/hariniimages/IMG_20240908_115754_356.jpg"
+    },
+    {
+        "src" : "/data/hariniimages/IMG_20240908_115756_582.jpg"
+    },
+    {
+        "src" : "/data/hariniimages/IMG_20240908_115801_628.jpg"
+    },
+    {
+        "src" : "/data/hariniimages/IMG_20240908_115806_574.jpg"
+    },
+    {
+        "src" : "/data/hariniimages/IMG_20240908_115808_287.jpg"
+    },
+    {
+        "src" : "/data/hariniimages/IMG_20240908_115810_186.jpg"
+    },
+    {
+      "src" : "/data/hariniimages/IMG_20240908_115533_458.jpg"
+    },
+    {
+        "src" : "/data/hariniimages/IMG_20240908_115555_955.jpg"
+    },
+    {
+        "src" : "/data/hariniimages/IMG_20240908_115559_035.jpg"
+    },
+    {
+        "src" : "/data/hariniimages/IMG_20240908_115601_709.jpg"
+    },
+    {
+        "src" : "/data/hariniimages/IMG_20240908_115614_790.jpg"
+    },
+    // {
+    //     "src" : "/data/hariniimages/IMG_20240908_115617_054.jpg"
+    // },
+    {
+        "src" : "/data/hariniimages/IMG_20240908_115643_334.jpg"
+    },
+    {
+        "src" : "/data/hariniimages/IMG_20240908_115717_564.jpg"
+    },
+    // {
+    //     "src" : "/data/hariniimages/IMG_20240908_115737_043.jpg"
+    // },
+    {
+        "src" : "/data/hariniimages/IMG_20240908_115743_034.jpg"
+    }
 ]
 
   return (
